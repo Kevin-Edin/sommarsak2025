@@ -13,12 +13,15 @@ body{
 }
 
 .header{
-    color: #e9cbcb; 
+    font-size: 2.8rem;
+    color: #ff6464; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .readin{
     font-size: 1.6rem;
     color: #e9cbcb;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .pwrup{
